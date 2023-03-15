@@ -1,0 +1,28 @@
+8979123 Ford 10 5000.00  Invalid Id Length. Invalid ID format.
+
+89ZZZ136 Toyota 14 54000.99  Invalid Id Length. Invalid ID format.
+
+AAzbcd123 Honda 12 10000.75  Invalid ID format.
+
+A4AFAC123 Ford 12 1000.00  Invalid ID format.
+
+12yFAB123 Ford 12 1000.00  Invalid ID format.
+
+-3abcd454 Mercedes 24 55000.00  Invalid ID format.
+
+12AQ!D143 Ho_nda 2 12000.00  Invalid ID format.
+
+59AODE999 Hon!!_a 12 10000.00  Invalid ID format. Invalid Model Format.
+
+98scGV483 1BMW 22 1000000.00  Invalid ID format. Invalid Model Format.
+
+22aged456 Tesl_a -33 76000.00  Invalid Quantity.
+
+13abde336 Bercedes 0 50000.00  Invalid Quantity.
+
+49peer987 Porsche 45 -100000.00  Invalid Price.
+
+179855454 Mazda 986 0.00  Invalid ID format. Invalid Price.
+
+13iunD123 $$d_a 172 0.00  Invalid ID format. Invalid Model Format. Invalid Price.
+
